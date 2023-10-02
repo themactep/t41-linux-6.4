@@ -108,7 +108,7 @@ config T31_OMNIMA
 	select MACH_T31
 
 config T40_OMNIMA
-	bool "T41 Omnima"
+	bool "T40 Omnima"
 	select MACH_XBURST2
 	select MACH_T40
 
